@@ -300,4 +300,4 @@ Steps:-
 
 [Lonami](https://github.com/LonamiWebs/Telethon/) for awesome Telethon
 
-[All the Libraries owner](https://github.com/yash-dk/TorToolkit-Telegram/blob/master/requirements.txt)
+[All the Libraries owner](https://github.com/minindra55/TorToolkit-Telegram/blob/master/requirements.txt)
